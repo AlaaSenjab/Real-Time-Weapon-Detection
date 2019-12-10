@@ -1,6 +1,6 @@
 # Real Time Weapon Detection Using Tesorflow Object Detection API.
 
-![Image description](https://git.generalassemb.ly/DSI-US-9/Real-Time-Weapon-Detection/blob/master/Demo/de1.gif)
+![Image description](https://github.com/AlaaSenjab/Real-Time-Weapon-Detection/blob/master/Demo/de1.gif)
 ## Probelm statement:
 
 Over the past eight years, the number of school mass shootings has increased drastically. Gun violence on school grounds resulted in many wounded or dead school kids which mirrors the gun violence problem in the United States. The failure to address the root cause of school gun violence is having lasting consequences for millions of American children.
@@ -9,7 +9,7 @@ As we are waiting for our leaders to find a solution for gun violence as a whole
 On average, police response time is around 18 minutes. When a shooting occur, sometimes calling 911 can't be done right away, instead, a person should be in a safe place for him to be able to call for help. and that might take so much more time. So, the 18 minutes police response time does not include the time it takes to call 911.
 
 
-![Image description](https://git.generalassemb.ly/DSI-US-9/Real-Time-Weapon-Detection/blob/master/Demo/respons_time.png)
+![Image description](https://github.com/AlaaSenjab/Real-Time-Weapon-Detection/blob/master/Demo/respons_time.png)
 ## Project Summary:
 
 In this project, i am proposing a way to reduce the police time greatly by using real-time weapon detection that could be implemented on any cctv camera.
@@ -91,12 +91,12 @@ While training, Tensorboard offers live feed back on how the model is doing. Per
 
 To understand mAP better, we need to know what Intersection Over Union(IOU) is:
 
-![Image description](https://git.generalassemb.ly/DSI-US-9/Real-Time-Weapon-Detection/blob/master/Demo/IOU.png)
+![Image description](https://github.com/AlaaSenjab/Real-Time-Weapon-Detection/blob/master/Demo/IOU.png)
 
 
 The IOU will yield to a percentage and depending on what we set our threshold to be, everything below that percentage is considered False Positive, and above it is considered True Positive.
 
-![Image description](https://git.generalassemb.ly/DSI-US-9/Real-Time-Weapon-Detection/blob/master/Demo/mAP@.5IOU.png)
+![Image description](https://github.com/AlaaSenjab/Real-Time-Weapon-Detection/blob/master/Demo/mAP%40.5IOU.png)
 
 
 ## Conclusion
